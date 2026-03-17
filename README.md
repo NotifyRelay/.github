@@ -23,9 +23,15 @@
 
 略
 
-## 未来规划 🚀
+## Star History
 
-略
+<a href="https://www.star-history.com/?repos=NotifyRelay%2FXboxGameBarWidgets%2CNotifyRelay%2FWindows%2CNotifyRelay%2FAndroid&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=NotifyRelay/XboxGameBarWidgets%2CNotifyRelay/Windows%2CNotifyRelay/Android&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=NotifyRelay/XboxGameBarWidgets%2CNotifyRelay/Windows%2CNotifyRelay/Android&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=NotifyRelay/XboxGameBarWidgets%2CNotifyRelay/Windows%2CNotifyRelay/Android&type=date&legend=bottom-right" />
+ </picture>
+</a>
 
 
 
