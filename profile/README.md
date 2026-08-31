@@ -7,18 +7,12 @@
 [安卓端](https://github.com/NotifyRelay/Android)
 
 [Win端](https://github.com/NotifyRelay/Windows)
-[Win端的xbox小组件](https://github.com/NotifyRelay/XboxGameBarWidgets)
-## 快速开始
+
+[核心模块](https://github.com/NotifyRelay/notify-relay-core)
+
+~~[Win端的xbox小组件](https://github.com/NotifyRelay/XboxGameBarWidgets)~~ *(已归档)*
 
 
-
-### 前提条件 📋
-
-运行本软件所需的环境和安装方法
-
-## 贡献指南
-
-略
 
 ## Star History
 
@@ -30,9 +24,7 @@
  </picture>
 </a>
 
-## 未来规划 🚀
 
-略
 
 
 
